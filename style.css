@@ -1,0 +1,39 @@
+.fixed-box{
+    
+    padding: 20px;
+    background-color: grey;
+    position: fixed;
+    top:0;
+    left:0;
+
+}
+
+
+.wrapper{
+    text-align: center;
+    width: 60%;
+    margin: 20%;
+}
+
+header{
+    text-align: center;
+}
+
+.positioned_relative{
+    position: relative;
+    background-color:darkgrey;
+    padding: 60px;
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    margin-left: 20%;
+}
+
+.positioned_absolute{
+    position: absolute;
+    background-color: grey;
+    
+    right: -20px;
+    padding: 20px;
+
+}
